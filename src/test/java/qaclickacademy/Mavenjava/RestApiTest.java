@@ -14,5 +14,9 @@ public class RestApiTest {
 	public void DeleteTwitter() {
 		System.out.println("Twitter account is deleted");	
 	}
+	@Test
+	public void testGITCheckin() {
+		System.out.println("New checkin");
+	}
 
 }
