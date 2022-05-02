@@ -21,6 +21,19 @@ public class SeleniumTest {
 	@Test
 	public void sel1() {
 		System.out.println("Sel11 UI Test");
+
+            }
+	@Test
+	public void XXX() {
+		System.out.println("XXX UI Test");
+
+            }
+
+	@Test
+	public void ABC() {
+		System.out.println("ABC UI Test");
+
+            }
 }
 
 
