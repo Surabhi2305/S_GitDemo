@@ -23,4 +23,19 @@ public class RestApiTest {
 		System.out.println("New checkin");
 	}
 
+    @Test
+	public void pulltest() {
+		System.out.println("pull");
+	}
+
+    @Test
+	public void pushtest() {
+		System.out.println("push")
+	}
+
+    @Test
+	public void sync() {
+		System.out.println("sync");
+	}
+
 }
