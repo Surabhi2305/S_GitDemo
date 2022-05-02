@@ -17,6 +17,10 @@ public class RestApiTest {
 	@Test
 	public void testGITCheckin() {
 		System.out.println("New checkin");
+
+       @Test
+	public void testGITCheckin() {
+		System.out.println("New checkin");
 	}
 
 }
